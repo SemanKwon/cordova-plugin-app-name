@@ -1,3 +1,4 @@
+//by seman
 package com.assuredlabor.cordova;
 
 import org.apache.cordova.CordovaPlugin;
